@@ -1,4 +1,4 @@
-# ptypy/utils/phase_diverse.py
+# ptypy/utils/phase_diverse.py 
 import numpy as _np
 
 try:

@@ -1,4 +1,4 @@
-# examples/phase_diverse/run_pd_dm.py
+#  examples/phase_diverse/run_pd_dm.py
 import numpy as np
 from ptypy.core import Ptycho
 from ptypy.utils.phase_diverse import (

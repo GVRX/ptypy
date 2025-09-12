@@ -9,7 +9,7 @@ Use a single `.ptyd` and add:
 - `entry/data/defocus_index` — `int` array, length = #views, values in `[0 .. Nd-1]`
 - `entry/data/defocus_z_m` — `float` array (metres), same length
 
-The helper `load_defocus_from_ptyd` reads these fields and `groups_from_view_z` maps unique z values to contiguous group ids.
+The helper `load_defocus_from_ptyd` reads these fields and `groups_from_view_z` maps unique z values to contiguous group ids. 
 
 ## Quick start
 

@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Engines module.
+Engines module. 
 
 Implements the difference map (DM) and maximum likelihood (ML) reconstruction
 algorithms for ptychography.
